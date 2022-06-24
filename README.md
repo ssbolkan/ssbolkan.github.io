@@ -1,2 +1,0 @@
-# ssbolkan.github.io
-website
